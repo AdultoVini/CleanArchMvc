@@ -1,6 +1,5 @@
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Infra.Data.deps.json
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Infra.Data.dll
-C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\ref\CleanArchMvc.Infra.Data.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Infra.Data.pdb
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Domain.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
@@ -13,3 +12,6 @@ C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infr
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\ref\CleanArchMvc.Infra.Data.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.pdb
+C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\CleanArchMvc.Infra.Data.runtimeconfig.json
+C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net6.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache
+C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net6.0\ref\CleanArchMvc.Infra.Data.dll

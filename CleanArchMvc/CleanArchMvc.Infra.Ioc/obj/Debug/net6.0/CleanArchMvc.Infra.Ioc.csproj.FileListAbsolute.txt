@@ -1,6 +1,5 @@
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net6.0\CleanArchMvc.Infra.Ioc.deps.json
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net6.0\CleanArchMvc.Infra.Ioc.dll
-C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net6.0\ref\CleanArchMvc.Infra.Ioc.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net6.0\CleanArchMvc.Infra.Ioc.pdb
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net6.0\CleanArchMvc.Application.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net6.0\CleanArchMvc.Domain.dll
@@ -17,3 +16,4 @@ C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infr
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net6.0\CleanArchMvc.Infra.Ioc.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net6.0\ref\CleanArchMvc.Infra.Ioc.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net6.0\CleanArchMvc.Infra.Ioc.pdb
+C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net6.0\ref\CleanArchMvc.Infra.Ioc.dll

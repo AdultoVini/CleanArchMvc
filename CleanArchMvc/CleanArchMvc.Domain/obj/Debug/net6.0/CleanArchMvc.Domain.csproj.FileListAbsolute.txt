@@ -1,6 +1,5 @@
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.deps.json
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.dll
-C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net6.0\ref\CleanArchMvc.Domain.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.csproj.AssemblyReference.cache
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,3 +9,4 @@ C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Doma
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\ref\CleanArchMvc.Domain.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.pdb
+C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net6.0\ref\CleanArchMvc.Domain.dll
