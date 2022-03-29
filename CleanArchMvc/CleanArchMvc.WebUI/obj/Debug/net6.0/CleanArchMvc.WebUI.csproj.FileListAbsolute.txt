@@ -386,6 +386,11 @@ C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.WebU
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\Humanizer.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\ref\CleanArchMvc.WebUI.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net6.0\scopedcss\projectbundle\CleanArchMvc.WebUI.bundle.scp.css
+C:\Users\vini3\desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\MediatR.dll
+C:\Users\vini3\desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\vini3\desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net6.0\ref\CleanArchMvc.WebUI.dll

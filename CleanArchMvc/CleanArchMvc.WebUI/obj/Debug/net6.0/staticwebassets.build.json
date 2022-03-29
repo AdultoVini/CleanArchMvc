@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lSlkje6vzguxsmCMlIXS+xSxxurDZfcXuHVret8qimA=",
+  "Hash": "BphM/3tZucks0McQImhKvCFbYaIzVsxxg4QRrCGYElA=",
   "Source": "CleanArchMvc.WebUI",
   "BasePath": "_content/CleanArchMvc.WebUI",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\vini3\\Desktop\\Repositórios\\CleanArchMvc\\CleanArchMvc\\CleanArchMvc.WebUI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CleanArchMvc.WebUI.styles.css",
+      "SourceId": "CleanArchMvc.WebUI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\vini3\\Desktop\\Repositórios\\CleanArchMvc\\CleanArchMvc\\CleanArchMvc.WebUI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/CleanArchMvc.WebUI",
+      "RelativePath": "CleanArchMvc.WebUI.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\vini3\\Desktop\\Repositórios\\CleanArchMvc\\CleanArchMvc\\CleanArchMvc.WebUI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CleanArchMvc.WebUI.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\vini3\\Desktop\\Repositórios\\CleanArchMvc\\CleanArchMvc\\CleanArchMvc.WebUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CleanArchMvc.WebUI.bundle.scp.css",
+      "SourceId": "CleanArchMvc.WebUI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\vini3\\Desktop\\Repositórios\\CleanArchMvc\\CleanArchMvc\\CleanArchMvc.WebUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/CleanArchMvc.WebUI",
+      "RelativePath": "CleanArchMvc.WebUI.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\vini3\\Desktop\\Repositórios\\CleanArchMvc\\CleanArchMvc\\CleanArchMvc.WebUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CleanArchMvc.WebUI.bundle.scp.css"
+    },
     {
       "Identity": "C:\\Users\\vini3\\Desktop\\Repositórios\\CleanArchMvc\\CleanArchMvc\\CleanArchMvc.WebUI\\wwwroot\\css\\site.css",
       "SourceId": "CleanArchMvc.WebUI",

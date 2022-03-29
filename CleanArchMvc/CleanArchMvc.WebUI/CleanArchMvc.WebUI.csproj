@@ -14,4 +14,8 @@
     <ProjectReference Include="..\CleanArchMvc.Infra.Ioc\CleanArchMvc.Infra.Ioc.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="/Views/Products/Index.cshtml" />
+  </ItemGroup>
+
 </Project>

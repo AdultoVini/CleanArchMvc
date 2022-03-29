@@ -11,7 +11,6 @@ using CleanArchMvc.Domain.Interfaces;
 
 namespace CleanArchMvc.Application.Services
 {
-
     public class CategoryService : ICategoryService
     {
         private ICategoryRepository _categoryRepository;

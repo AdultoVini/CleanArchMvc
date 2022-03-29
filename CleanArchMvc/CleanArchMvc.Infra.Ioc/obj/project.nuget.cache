@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "YBOBQfTfWbu3b10lD8W3tD9ok+hEw4BSU7iBCQBNYBV2i1Xe0fHwQbDWT2K5X54PUTAIsMIANijUGI24Vyi0bw==",
+  "dgSpecHash": "tqeCssZCGSTKwXLg4GyhgY8SrVVpJBVCZVsVJ/QAPFtNnc8TcorL0HPRU351BAoaeo9LySyolgZ8ehLQjTEL+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\vini3\\Desktop\\Repositórios\\CleanArchMvc\\CleanArchMvc\\CleanArchMvc.Infra.Ioc\\CleanArchMvc.Infra.Ioc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vini3\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\vini3\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\vini3\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\vini3\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\vini3\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\vini3\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\vini3\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\vini3\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\vini3\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

@@ -8,7 +8,6 @@ C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Doma
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain.Tests\bin\Debug\net6.0\CleanArchMvc.Domain.Tests.deps.json
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain.Tests\bin\Debug\net6.0\CleanArchMvc.Domain.Tests.runtimeconfig.json
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain.Tests\bin\Debug\net6.0\CleanArchMvc.Domain.Tests.dll
-C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain.Tests\bin\Debug\net6.0\ref\CleanArchMvc.Domain.Tests.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain.Tests\bin\Debug\net6.0\CleanArchMvc.Domain.Tests.pdb
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain.Tests\bin\Debug\net6.0\FluentAssertions.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -104,3 +103,4 @@ C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Doma
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net6.0\ref\CleanArchMvc.Domain.Tests.dll
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net6.0\CleanArchMvc.Domain.Tests.pdb
 C:\Users\vini3\Desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net6.0\CleanArchMvc.Domain.Tests.genruntimeconfig.cache
+C:\Users\vini3\desktop\Repositórios\CleanArchMvc\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net6.0\refint\CleanArchMvc.Domain.Tests.dll

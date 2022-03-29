@@ -29,6 +29,10 @@ namespace CleanArchMvc.Domain.Entities
             this.Id = id;
             ValidateDomain(name, description, price, stock, image);
         }
+        public void Update(string name, string description, decimal price, int stock, string image, int categoryId){
+            ValidateDomain(name, description, price, stock, image);
+            this.CategoryId = categoryId;
+        }
         private void ValidateDomain(string name, string description, decimal price, int stock, string image)
         {
             DomainExceptionValidation.When(string.IsNullOrEmpty(name), "Invalid name, Name field is required!");
