@@ -8,6 +8,10 @@ namespace CleanArchMvc.Infra.Data.Migrations
     {
         protected override void Up(MigrationBuilder mb)
         {
+            //mb.Sql("INSERT INTO Categories(Name) " +
+            //    "VALUES('Material escolar')");
+            //mb.Sql("INSERT INTO Categories(Name) " +
+            //    "VALUES('Instrumentos')");
             mb.Sql("INSERT INTO Products(Name, Description, Price, Stock, Image, CategoryId) " +
                 "VALUES('Caderno', 'Caderno espiral 100 foia', 7.45, 50, 'caderno.png', 1)");
             mb.Sql("INSERT INTO Products(Name, Description, Price, Stock, Image, CategoryId) " +
