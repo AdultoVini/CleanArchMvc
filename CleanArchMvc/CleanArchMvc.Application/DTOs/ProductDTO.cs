@@ -38,8 +38,8 @@ namespace CleanArchMvc.Application.DTOs
         [MaxLength(250)]
         [DisplayName("Product image")]
         public string Image { get; private set; }
-        public int CategoryId { get; set; }
         [DisplayName("Categories")]
-        public Category Category { get; set; }
+        public int CategoryId { get; set; }
+        public Category? Category { get; set; }
     }
 }
